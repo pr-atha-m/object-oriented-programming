@@ -17,16 +17,22 @@ For each test case, the output is the gradePoints & the honorPoints of that cour
 
 ## Constraints:
 1<=T<=100
+
 1<=CID.length()<=100
+
 'A'<=g<='F'
+
 1<=cr<=4
+
 Note: Grades are not case sensitive.
 
 ## Example:
 ### Input
 2
 CSN-206 A 4
+
 ECE-500 d 3
 ### Output
 10 40
+
 7 21
